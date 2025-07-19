@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Jason Votaw - nice to meet you!
+
+- 🔭 I’m currently working on creating fake healthcare data
+- 🌱 I’m currently learning to prepare data for machine learning
+- 👯 I’m looking to collaborate on a Sherlock Holmes based game in UNITY engine
 <!--
 **jason-votaw/jason-votaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
