@@ -2,7 +2,7 @@
 
 My name is Jason Votaw - nice to meet you!
 
-- 🔭 I’m currently working on creating fake healthcare data
+- 🔭 I’m currently working on creating realistic fake healthcare analytics data
 - 🌱 I’m currently learning to prepare data for machine learning
 - 👯 I’m looking to collaborate on a Sherlock Holmes based game in UNITY engine
 <!--
