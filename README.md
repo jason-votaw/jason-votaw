@@ -5,9 +5,9 @@ My name is Jason Votaw - nice to meet you!
 
 jasonvotaw@gmail.com
 
-- 🔭 I’m currently working on creating realistic fake healthcare analytics data
+- 🔭 I’m currently working on creating realistic mock healthcare analytics data
 - 🌱 I’m currently learning to prepare data for machine learning and improving my Python skills
-- 👯 I’m looking to collaborate on a Sherlock Holmes based game in UNITY engine
+- 👯 I’m looking to collaborate on a 2D games built with Unity enginge
 <!--
 **jason-votaw/jason-votaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
